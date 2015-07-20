@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introducción a D3.js</title>
+
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" charset="utf-8">
+</script>
+<script>
+
+d3.json('flare.json',function(data){
+  var maxStars = d3.max(data.proyectos , function (item) {
+    // console.log(item.utpl_finance);
+    return item.utpl_finance;
+
+  });
+
+  var maxForks = d3.max(data.proyectos, function (item) {
+    // console.log("total "+item.total_general);
+    return item.total_general;
+  });
+
+  var width = d3.scale.linear()
+                .domain([0, maxStars])
+                .range([0, 99]);
+
+  var background = d3.scale.linear()
+                     .domain([0, maxForks])
+                     .range(["#C58585", "#120505"]);
+
+  d3.select('#chart')
+    .append('div')
+      .attr('class', 'chart')
+    .selectAll('div')
+    .data(data.proyectos)
+    .enter()
+    .append('div')
+      .attr('class', 'bar')
+      .style('width', function (item) {
+        console.log("utpl fin "+ item.utpl_finance);
+        return width(item.utpl_finance) + '%';
+
+      })
+      .style('background-color', function (item) {
+        console.log("tot "+item.total_general);
+        return background(item.total_general);
+      })
+      .text(function (item) {
+        return "$ "+ item.total_general;
+        //"Id proyecto: " + item.id ;//+ 
+      });
+});
+</script>
+
+<style type="text/css">
+.chart {
+  font-family: sans-serif;
+}
+.bar {
+  color: #000000;
+  height: auto;
+  width: auto;
+  font: icon;      
+  line-height: 15px;
+  padding-left: 1%;
+  margin-bottom: 1px;
+}
+</style>
+</head>
+<body>
+<div class ="container">
+<h2 align="center"> Proyecto Ingenieria Web </h2>
+<hr>
+<div class="row">
+  <div class="col-md-2">
+  </div>
+<div class="col-md-10 thumbnail" id="chart"> <center><h2>Visualizacion por costos de proyectos</h2></center></div>
+    
+</div>
+
+</div>
+
+</body>
+</html>

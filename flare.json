@@ -1,0 +1,2503 @@
+{
+  "version": "1.0",
+  "name": "proyectos",
+  "description": "devuelve una lista de proyectos en los cuales el docente ha participado",
+  "rows": 21,
+  "proyectos": [
+    {
+      "id": 1860,
+      "year": 2014,
+      "finalize_date": "31/05/2014",
+      "project_name": "PROYECTO NÚCLEO SMARTLAND-PLATAFORMA DE INTEROPERABILIDAD Y MONITOREO",
+      "department": "",
+      "description": "",
+      "progress": 0.00,
+      "utpl_finance": 118125.00,
+      "project_type": "Investigación",
+      "start_date": "01/04/2014",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "no",
+      "total_general": 118125.00,
+      "status": "ejecutandose",
+      "project_code": "PROY_CCCE_ 0010",
+      "line_of_research": "Investigación, desarrollo e innovación",
+      "program": "Tecnologías avanzadas de la web, inteligencia artificial e ingeniería de software ",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 3475,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3476,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3477,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3478,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3479,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3480,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3481,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3482,
+          "author": "JUAN CARLOS MOROCHO YUNGA",
+          "id_docente": 214,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3483,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3484,
+          "author": "MARIA BELEN MORA ARCINIEGAS",
+          "id_docente": 306,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3485,
+          "author": "VERONICA ALEXANDRA SEGARRA FAGGIONI",
+          "id_docente": 627,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": false
+        },
+        {
+          "id": 3487,
+          "author": "Marlon  Viñan Ludeña",
+          "id_docente": 3056,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": true
+        },
+        {
+          "id": 3488,
+          "author": "Edmundo  Tovar Caro",
+          "id_docente": 34,
+          "assumed_rol": "Participación",
+          "start_date": "01/04/2014",
+          "finalize_date": "31/05/2014",
+          "is_external": true
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1851,
+      "year": 2014,
+      "finalize_date": "01/02/2015",
+      "project_name": "Plataforma de integración, publicación y consulta integrada de recursos bibliográficos en la Web Semántica",
+      "department": "",
+      "description": "El objetivo principal de este proyecto es el análisis, generación y  publicación de Linked Data de las bibliotecas de las instituciones participantes, así como, el  desarrollo de una aplicación que provea acceso unificado centrado en el usuario, en cualquier lugar y a cualquier hora para usuarios de bibliotecas.",
+      "progress": 0.00,
+      "utpl_finance": 13500.00,
+      "project_type": "Innovación",
+      "start_date": "01/02/2014",
+      "coverage_project": "Nacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 32800.00,
+      "status": "ejecutandose",
+      "project_code": "PROY_FIN_CCCE_ 0010",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 19300.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 404,
+          "tipo": "otro",
+          "fecha": "24/04/2014",
+          "descipcion": "Proyecto"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 3302,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/02/2014",
+          "finalize_date": "01/02/2015",
+          "is_external": false
+        },
+        {
+          "id": 3303,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/02/2014",
+          "finalize_date": "01/02/2015",
+          "is_external": false
+        },
+        {
+          "id": 3304,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/02/2014",
+          "finalize_date": "01/02/2015",
+          "is_external": false
+        },
+        {
+          "id": 3305,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/02/2014",
+          "finalize_date": "01/02/2015",
+          "is_external": false
+        },
+        {
+          "id": 3306,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/02/2014",
+          "finalize_date": "01/02/2015",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1970,
+      "year": 2014,
+      "finalize_date": "31/12/2014",
+      "project_name": "TECNOLOGIAS SEMANTICAS: DATOS ENLAZADOS EN BIBLIOTECA Y REPOSITORIOS DIGITALES",
+      "department": "",
+      "description": "Mediante la presente capacitación se adquirirá la habilidad para aplicar la metodología basada en los principios  de linked data para la publicación de datos RDF en la web de manera que estos puedan ser interoperables y reusable a travéz de las bibliotecas de nuestra región ",
+      "progress": 80.00,
+      "utpl_finance": 3159.00,
+      "project_type": "Innovación",
+      "start_date": "01/01/2014",
+      "coverage_project": "Nacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 3709.00,
+      "status": "finalizado",
+      "project_code": "PROY_FIN_CCCE_ 0013",
+      "line_of_research": "INVESTIGACIÓN, DESARROLLO E INNOVACIÓN",
+      "program": "Tecnologías Avanzadas de la Web, Inteligencia Artificial e Ingeniería de Software",
+      "external_finance": 550.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 4550,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4551,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4552,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4553,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4554,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4555,
+          "author": "VICTOR HUGO SAQUICELA GALARZA",
+          "id_docente": 3234,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2014",
+          "finalize_date": "31/12/2014",
+          "is_external": true
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1683,
+      "year": 2013,
+      "finalize_date": "15/12/2013",
+      "project_name": "Linked Open Data University: Plataforma Semántica y Colaborativa para acceso en línea a Datos y Documentos Universitarios Abiertos y Enlazados, Piloto UTPL",
+      "department": "",
+      "description": "Promover y facilitar el acceso e intercambio de información creada, recopilada y mantenida por la UTPL a través de una plataforma semántica de datos abiertos y en formatos legibles automáticamente por agentes máquina (machine-readable) format.",
+      "progress": 100.00,
+      "utpl_finance": 30645.00,
+      "project_type": "Investigación",
+      "start_date": "14/01/2013",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "si",
+      "total_general": 30645.00,
+      "status": "finalizado",
+      "project_code": "PROY_CCCE_ 0006",
+      "line_of_research": "Investigación, desarrollo e innovación ",
+      "program": "Tecnolog¿as avanzadas de la web, inteligencia artificial e ingenier¿a de software",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 2352,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2353,
+          "author": "FABIOLA LUCIA PUERTAS BRAVO",
+          "id_docente": 187,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2354,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2355,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2356,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2357,
+          "author": "RAMIRO LEONARDO RAMIREZ CORONEL",
+          "id_docente": 366,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2358,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2359,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2361,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2362,
+          "author": "JUAN CARLOS MOROCHO YUNGA",
+          "id_docente": 214,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2364,
+          "author": "MARIA BELEN MORA ARCINIEGAS",
+          "id_docente": 306,
+          "assumed_rol": "Participación",
+          "start_date": "14/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1650,
+      "year": 2013,
+      "finalize_date": "15/12/2013",
+      "project_name": "Tecnologías de la web semántica aplicadas a la comunicación institucional UTPL.",
+      "department": "",
+      "description": "Aplicar herramientas de la web semántica a la comunicación institucional de la Universidad Técnica Particular de Loja.",
+      "progress": 100.00,
+      "utpl_finance": 29565.00,
+      "project_type": "Investigación",
+      "start_date": "02/01/2013",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "si",
+      "total_general": 29565.00,
+      "status": "finalizado",
+      "project_code": "PROY_CCCOM_ 0031",
+      "line_of_research": "Investigación, desarrollo e innovación ",
+      "program": "Tecnolog¿as avanzadas de la web, inteligencia artificial e ingenier¿a de software",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 2165,
+          "author": "VERONICA PAULINA ALTAMIRANO BENITEZ",
+          "id_docente": 299,
+          "assumed_rol": "Dirección",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2166,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2167,
+          "author": "ROSARIO JOHANNA PUERTAS HIDALGO",
+          "id_docente": 134,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2168,
+          "author": "CLAUDIA VANESSA RODRIGUEZ HIDALGO",
+          "id_docente": 320,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2169,
+          "author": "KRUZKAYA ELIZABETH ORDOÑEZ GONZALEZ",
+          "id_docente": 146,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2170,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2171,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 2174,
+          "author": "RAMIRO LEONARDO RAMIREZ CORONEL",
+          "id_docente": 366,
+          "assumed_rol": "Participación",
+          "start_date": "02/01/2013",
+          "finalize_date": "15/12/2013",
+          "is_external": false
+        },
+        {
+          "id": 3528,
+          "author": "Miguel  Tunez Lopez",
+          "id_docente": 3067,
+          "assumed_rol": "Participación",
+          "start_date": "",
+          "finalize_date": "",
+          "is_external": true
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1581,
+      "year": 2012,
+      "finalize_date": "30/06/2014",
+      "project_name": "PROYECTO OPORTUNIDAD",
+      "department": "",
+      "description": "",
+      "progress": 0.00,
+      "utpl_finance": 13705.00,
+      "project_type": "Investigación",
+      "start_date": "01/12/2012",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 68525.00,
+      "status": "ejecutandose",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 54820.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 305,
+          "tipo": "convenio",
+          "fecha": "12/06/2013",
+          "descipcion": "Convenio"
+        },
+        {
+          "id": 306,
+          "tipo": "participantes",
+          "fecha": "12/06/2013",
+          "descipcion": "Listado de Participantes"
+        },
+        {
+          "id": 307,
+          "tipo": "otro",
+          "fecha": "12/06/2013",
+          "descipcion": "Presupuesto"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1454,
+          "author": "SANTIAGO ACOSTA AIDE",
+          "id_docente": 423,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1644,
+          "author": "CELIA PAOLA SARANGO LAPO",
+          "id_docente": 291,
+          "assumed_rol": "Codirección",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1645,
+          "author": "DUNIA INES JARA ROA",
+          "id_docente": 64,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1646,
+          "author": "Marcelo  Juca Aulestia ",
+          "id_docente": 1218,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": true
+        },
+        {
+          "id": 1647,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1648,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1649,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1650,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1651,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        },
+        {
+          "id": 1652,
+          "author": "INES PATRICIA TORRES OCHOA",
+          "id_docente": 97,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "30/06/2014",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1099,
+      "year": 2012,
+      "finalize_date": "10/12/2012",
+      "project_name": "TECNOLOGIAS DE WEB SEMANTICA EN DATOS Y LEGISLACION UNIVERSITARIA PARA EL ESPACIO LATINOAMERICANO Y DEL CARIBE DE EDUCACION SUPERIOR",
+      "department": "",
+      "description": "Linked Data es un conjunto de principios para exponer datos en la Web (no solamente paginas Web que contienen informacion) de manera que estos sean directamente enlazables, interoperables, visibles y reusables. ",
+      "progress": 100.00,
+      "utpl_finance": 28741.50,
+      "project_type": "Investigación",
+      "start_date": "13/02/2012",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "no",
+      "total_general": 28741.50,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0018",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 256,
+          "tipo": "participantes",
+          "fecha": "10/06/2013",
+          "descipcion": "Actividades Participantes"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1339,
+          "author": "Mercy  Jimenez ",
+          "id_docente": 86,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1337,
+          "author": "Diego  Guaman ",
+          "id_docente": 83,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1336,
+          "author": "Pablo  Alvarado ",
+          "id_docente": 82,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1335,
+          "author": "María Fernanda Valverde Vásquez",
+          "id_docente": 52,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 718,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 720,
+          "author": "FABIOLA LUCIA PUERTAS BRAVO",
+          "id_docente": 187,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 721,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 723,
+          "author": "LUIS OSWALDO ORDOÑEZ PINEDA",
+          "id_docente": 401,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 725,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1696,
+          "author": "JUAN CARLOS MOROCHO YUNGA",
+          "id_docente": 214,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2012",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1046,
+      "year": 2012,
+      "finalize_date": "30/11/2012",
+      "project_name": "MARCO DE TRABAJO PARA LA BUSQUEDA DE RECURSOS EDUCATIVOS OCW A TRAVES DEL USO DE TECNOLOGIAS EMERGENTES DE LA WEB Y DISPOSITIVOS MOVILES.",
+      "department": "",
+      "description": "En nuestro ambito, representado en su mayoria por universidades, los sistemas de informacion para la gestion de contenidos abiertos en general son silos de contenidos, que presentan una serie de carencias, entre las mas relevantes:",
+      "progress": 96.67,
+      "utpl_finance": 18926.52,
+      "project_type": "Investigación",
+      "start_date": "30/01/2012",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 26204.22,
+      "status": "ejecutandose",
+      "project_code": "PROY_FIN_CCCE_ 0001",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 7277.70,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 86,
+          "tipo": "otro",
+          "fecha": "03/06/2013",
+          "descipcion": "Resolución Rectoral de la UPM"
+        },
+        {
+          "id": 280,
+          "tipo": "participantes",
+          "fecha": "10/06/2013",
+          "descipcion": "Certificados de Participación"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 255,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": false
+        },
+        {
+          "id": 256,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": false
+        },
+        {
+          "id": 257,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": false
+        },
+        {
+          "id": 258,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": false
+        },
+        {
+          "id": 1351,
+          "author": "Andrea Alejandra Novillo Navarro",
+          "id_docente": 51,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1350,
+          "author": "Juan Pablo Ordoñez ",
+          "id_docente": 1106,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1349,
+          "author": "Manuel Agustin Valarezo Salinas",
+          "id_docente": 45,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1354,
+          "author": "David  Arias ",
+          "id_docente": 1108,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1353,
+          "author": "Susana  Bayona ",
+          "id_docente": 1107,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1352,
+          "author": "Edmundo  Tovar Caro",
+          "id_docente": 34,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        },
+        {
+          "id": 1348,
+          "author": "RENE ROLANDO ELIZALDE SOLANO",
+          "id_docente": 457,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": false
+        },
+        {
+          "id": 1363,
+          "author": "Eva  Sancho Zamora",
+          "id_docente": 1109,
+          "assumed_rol": "Participación",
+          "start_date": "30/01/2012",
+          "finalize_date": "30/11/2012",
+          "is_external": true
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1967,
+      "year": 2012,
+      "finalize_date": "31/12/2014",
+      "project_name": "Mejorar la accesibilidad en la Educación Superior Virtual - América Latina (ESVI-AL)",
+      "department": "",
+      "description": "Para el desarrollo del proyecto se ha planteado el uso, aplicación y reutilización de metodologías ampliamente reconocidas como la UNE-EN ISO/IEC 19796. Tecnología de la información. Enseñanza, educación y formación. Gestión, aseguramiento y métricas de la calidad.\r\nEl Proyecto ESVI-AL (Educación Superior Virtual Inclusiva ¿ América Latina), es financiado por el programa ALFA III de la Unión Europea. El objetivo específico del proyecto es mejorar la accesibilidad de la educación superior virtual, a través de la creación e implantación de metodologías que establezcan un modelo de trabajo para el cumplimiento de requisitos y estándares de accesibilidad en el contexto de la formación virtual, especialmente a través de la Web, considerando planes de estudio que estén conceptualizados según las necesidades sociales, de sostenibilidad y empleabilidad de las personas con discapacidades físicas de los países de AL participantes, armonizados en el Espacio Común ALCUE de Educación Superior; y cuya accesibilidad y calidad como formación virtual pueda ser verificable, y pueda ser mejorada continuamente en la búsqueda de la excelencia, a través del establecimiento de una red para fomentar las relaciones duraderas entre las IES de AL y de la UE",
+      "progress": 100.00,
+      "utpl_finance": 20925.00,
+      "project_type": "Investigación",
+      "start_date": "01/01/2012",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 113566.36,
+      "status": "finalizado",
+      "project_code": "PROY_FIN_CCCE_ 0002",
+      "line_of_research": "INVESTIGACIÓN, DESARROLLO E INNOVACIÓN",
+      "program": "TECNOLOGÍAS Y ACCESIBILIDAD PARA LA EDUCACIÓN",
+      "external_finance": 92641.36,
+      "participacion_extranjera": "si",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 4507,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4508,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4509,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4510,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4511,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4512,
+          "author": "RENE ROLANDO ELIZALDE SOLANO",
+          "id_docente": 457,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4513,
+          "author": "Manuel Agustin Valarezo Salinas",
+          "id_docente": 45,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": true
+        },
+        {
+          "id": 4514,
+          "author": "Marlon Santiago Viñán Santiago",
+          "id_docente": 46,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": true
+        },
+        {
+          "id": 4515,
+          "author": "MARIA BELEN MORA ARCINIEGAS",
+          "id_docente": 306,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4516,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4517,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4518,
+          "author": "JUAN CARLOS MOROCHO YUNGA",
+          "id_docente": 214,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4519,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4520,
+          "author": "RAMIRO LEONARDO RAMIREZ CORONEL",
+          "id_docente": 366,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4521,
+          "author": "MARTHA ALBANIA CAMACHO CONDO",
+          "id_docente": 138,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4522,
+          "author": "MARY ELIZABETH MOROCHO QUEZADA",
+          "id_docente": 216,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": false
+        },
+        {
+          "id": 4523,
+          "author": "JOSE  RAMON HILERA ",
+          "id_docente": 3216,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": true
+        },
+        {
+          "id": 4524,
+          "author": "ROCAEL  HERNANDEZ ",
+          "id_docente": 3217,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2012",
+          "finalize_date": "31/12/2014",
+          "is_external": true
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 1579,
+      "year": 2011,
+      "finalize_date": "01/12/2012",
+      "project_name": "Aplicación de tecnologías web emergentes para el estudio del impacto de repositorios OCW españoles y latinoamericanos en la Educación Superior",
+      "department": "",
+      "description": "La prospectiva proporciona capacidad estratégica a las organizaciones pues aporta información para conocer lo que está pasando, saber hacia dónde ir y cuáles son las tendencias de desarrollo a medio y largo plazo. El presente proyecto persigue presentar una visión prospectiva sobre el impacto de los materiales OpenCourseWare y de las tecnologías emergentes de la WEB en  recursos educativos del sistema universitario español y latinoamericano, concretamente, en las nuevas estrategias de innovación docente así como en la misión de responsabilidad social universitaria que permita facilitar información actualizada del uso e impacto de materiales OCW y mostrar la verdadera potencialidad inherente a los actuales repositorios de OCW en universidades latinoamericanas.",
+      "progress": 100.00,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/11/2011",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 23843.00,
+      "status": "finalizado",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 23843.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 260,
+          "tipo": "resultado_cientifico",
+          "fecha": "10/06/2013",
+          "descipcion": "Informe de OCWs - Entregable del Proyecto"
+        },
+        {
+          "id": 262,
+          "tipo": "otro",
+          "fecha": "10/06/2013",
+          "descipcion": "Boletín Oficial - Aprobación Proyecto, Presupuesto"
+        },
+        {
+          "id": 302,
+          "tipo": "participantes",
+          "fecha": "11/06/2013",
+          "descipcion": "Participantes Proyecto"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1450,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1575,
+          "author": "Edmundo  Tovar Caro",
+          "id_docente": 34,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1576,
+          "author": "Oscar  Martínez Bonastre",
+          "id_docente": 35,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1577,
+          "author": "Marinela  Fernandez ",
+          "id_docente": 1174,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1578,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Codirección",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1579,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1580,
+          "author": "RENE ROLANDO ELIZALDE SOLANO",
+          "id_docente": 457,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1581,
+          "author": "Manuel Agustin Valarezo Salinas",
+          "id_docente": 45,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1582,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": false
+        },
+        {
+          "id": 1583,
+          "author": "Manuel  Castro ",
+          "id_docente": 1175,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1584,
+          "author": "San Cristobal  Elio ",
+          "id_docente": 1176,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1585,
+          "author": "Rosario  Gil ",
+          "id_docente": 1177,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1586,
+          "author": "Sergio  Martin ",
+          "id_docente": 1178,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1587,
+          "author": "Mohamed-Saied Tawfik Abuelela  Mohamed-Saiedx ",
+          "id_docente": 1179,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1588,
+          "author": "Oliver  Soto Sanz",
+          "id_docente": 1180,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1589,
+          "author": "Gabriela  Diaz ",
+          "id_docente": 1181,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1590,
+          "author": "Eva  Sancho Zamora",
+          "id_docente": 1109,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1591,
+          "author": "David  Arias ",
+          "id_docente": 1108,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        },
+        {
+          "id": 1592,
+          "author": "Bayona  Susy ",
+          "id_docente": 1184,
+          "assumed_rol": "Participación",
+          "start_date": "01/11/2011",
+          "finalize_date": "01/12/2012",
+          "is_external": true
+        }
+      ],
+      "rol": "Codirección"
+    },
+    {
+      "id": 1093,
+      "year": 2011,
+      "finalize_date": "29/06/2012",
+      "project_name": "GUIAS DE IMPLEMENTACION DE UN MECANISMO DE DESAMBIGUACION PARA DATOS PUBLICADOS EN LUD",
+      "department": "",
+      "description": "La iniciativa Linked Open Data (LOD) ha dado lugar a un numero cada vez mayor de conjuntos de datos RDF que estan disponibles en linea y que forman parte su conjunto de repositorios. Su caracteristica principal, es que las URI's estan enlazadas en el mismo repositorio o con repositorios externos.",
+      "progress": 100.00,
+      "utpl_finance": 10152.00,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "SI",
+      "total_general": 10152.00,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0009",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 664,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 665,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Dirección",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 666,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 667,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 668,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 669,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 670,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 671,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 672,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 1262,
+          "author": "Jaime Fabian Torres Carrion",
+          "id_docente": 483,
+          "assumed_rol": "Participación",
+          "start_date": "30/06/2011",
+          "finalize_date": "29/06/2012",
+          "is_external": true
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1097,
+      "year": 2011,
+      "finalize_date": "28/06/2012",
+      "project_name": "EXTRACCION DESDE DOCUMENTOS NO ESTRUCTURADOS Y SU REPRESENTACION EN LENGUAJES SEMANTICOS PARA LA INFORMACION DEL PROYECTO LINKED UNIVERSITIES DATA (LUD)",
+      "department": "",
+      "description": "La mayor parte de la informacion que actualmente se encuentra en la red no esta estructurada para ser entendida por sistemas computacionales, como es el caso de los motores de busqueda. Por ello, el reto actual de la web semantica se enfoca hacia el enlace de estos contenidos (Unstructured Legacy Data). La combinacion de tecnicas de Machine Learning, Text Mining y Analisis Semantico (Semantic Analysis), brindan un esquema para la recuperacion de esta informacion (Information Retrieval)[1].",
+      "progress": 100.00,
+      "utpl_finance": 8253.90,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "SI",
+      "total_general": 8253.90,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0015",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 704,
+          "author": "ALEXANDRA CRISTINA GONZALEZ ERAS",
+          "id_docente": 217,
+          "assumed_rol": "Dirección",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 705,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 706,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 707,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 708,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 709,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 710,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 711,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        },
+        {
+          "id": 713,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "29/06/2011",
+          "finalize_date": "28/06/2012",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1094,
+      "year": 2011,
+      "finalize_date": "31/05/2012",
+      "project_name": "HERRAMIENTA PARA LA CONSTRUCCION Y PUBLICACION DE VOCABULARIOS RDF EN EL MARCO DEL PROYECTO LUD",
+      "department": "",
+      "description": "-La Web de Datos ha tenido un impresionante desarrollo desde su concepcion en cuanto a su estructura y acceso a los datos, si bien es cierto existen aportes muy significativos los cuales han dado impulso a esta innovadora vision de la Web, dichos trabajos incluyen la creacion de editores de rdf, pero carecen de ciertas caracteristicas como la posibilidad de realizar tareas colaborativas en grupos de trabajo distribuidos, y principalmente no cumplen con los principios de Linked Data .",
+      "progress": 100.00,
+      "utpl_finance": 10125.00,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "SI",
+      "total_general": 10125.00,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0011",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 682,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 683,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 684,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 685,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 686,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Dirección",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 688,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        },
+        {
+          "id": 690,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2011",
+          "finalize_date": "31/05/2012",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1092,
+      "year": 2011,
+      "finalize_date": "02/04/2012",
+      "project_name": "MARCO DE TRABAJO PARA LA CREACION DE SERVICIOS WEB SEMANTICOS BAJO LOS PRINCIPIOS DE LINKED DATA PARA EL PROYECTO LINKED UNIVERSITIES DATA (LUD)",
+      "department": "",
+      "description": "Los servicios Web (WS), son sistemas que se pueden ejecutar a traves de Internet y que debido al uso de estandares como XML, SOAP y WSDL son independientes de la plataforma y de los lenguajes de programacion. Su aporte es permitir la creacion de grandes sistemas distribuidos a traves del re-uso de componentes debilmente acoplados. Inicialmente concebidos para integrarse automaticamente, tareas como: busqueda, seleccion, seguridad, manejo de transacciones, mensajeria y notificacion, han convertido a dicha tarea en una actividad manual que debe ser ejecutada por algun experto. En la actualidad el escaso numero de WS es un problema que se origina por un modelo de registro/publicacion complejo y que no brinda grandes capacidades para la localizacion de servicios Web.",
+      "progress": 100.00,
+      "utpl_finance": 7580.00,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "si",
+      "total_general": 7580.00,
+      "status": "ejecutandose",
+      "project_code": "PROY_IIICC_ 0004",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 646,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 647,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 648,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 649,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 650,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 651,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 652,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Dirección",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 653,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        },
+        {
+          "id": 654,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "03/04/2011",
+          "finalize_date": "02/04/2012",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 204,
+      "year": 2011,
+      "finalize_date": "23/12/2011",
+      "project_name": "USO DE PRINCIPIOS DE LINKED DATA PARA LA PUBLICACION DE DATOS UNIVERSITARIOS ENLAZADOS - LUD LINKED UNIVERSITIES DATA",
+      "department": "",
+      "description": "La Web Semantica provee un framework comun que permite que los datos sean compartidos y re-usados a traves de aplicaciones, organizaciones y comunidades (W3C, 2001). Es un esfuerzo colaborativo liderado por W3C con la participacion de un gran numero de investigadores y partners de la industria. Esta basada en el Marco de Trabajo para la Descripcion de Recursos -RDF, Resource Description Framework - (W3C, 2009a). ",
+      "progress": 100.00,
+      "utpl_finance": 10935.00,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "si",
+      "total_general": 10935.00,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0010",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 0.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 673,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 674,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 675,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 676,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 677,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 678,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 679,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 680,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 681,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 203,
+      "year": 2011,
+      "finalize_date": "31/12/2011",
+      "project_name": "IMPLEMENTACION DE UN PROTOTIPO DE BUSQUEDA DE DATOS GENERADOS EN EL MARCO DEL PROYECTO LINKED UNIVERSITY DATA (LUD)",
+      "department": "",
+      "description": "Como se menciona en el articulo ?Context-Aware Query Classification? de (Cao, Hao-Hu, Shen y Jiang, 2009), las busquedas que realizan los usuarios de la Web, se basan en pocas palabras y estas son ambiguas; por tanto, la necesidad de interpretar las consultas de los usuarios se ha convertido en un problema de investigacion actual. Ademas, gracias al surgimiento de iniciativas como Linked Data, miles de descriptores (expresados en RDF) sobre personas, ciudades, material cientifico, recursos educativos y mas, estan disponibles en la Web; por lo que la necesidad de implementar sistemas de consulta que permitan explorar y encontrar los datos de interes para cada usuario, se ha convertido en un desafio para los investigadores.",
+      "progress": 100.00,
+      "utpl_finance": 9325.00,
+      "project_type": "Investigación",
+      "start_date": "01/02/2011",
+      "coverage_project": "Nacional",
+      "has_students": "no",
+      "has_external_finance": "no",
+      "rescheduled": "si",
+      "total_general": 10125.00,
+      "status": "finalizado",
+      "project_code": "PROY_IIICC_ 0006",
+      "line_of_research": "",
+      "program": "CIENCIAS DE LA COMPUTACION Y ELECTRONICA",
+      "external_finance": 800.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        
+      ],
+      "participantes": [
+        {
+          "id": 655,
+          "author": "ANGEL EDUARDO ENCALADA ENCALADA",
+          "id_docente": 129,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 656,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 657,
+          "author": "IRMA ELIZABETH CADME SAMANIEGO",
+          "id_docente": 272,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 658,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 659,
+          "author": "GUIDO EDUARDO RIOFRIO CALDERON",
+          "id_docente": 195,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 660,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 661,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 662,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 663,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 176,
+      "year": 2011,
+      "finalize_date": "31/12/2011",
+      "project_name": "Desarrollo de Tecnologias Web para la Producción y uso de Contenidos Abiertos en Educación Superior",
+      "department": "",
+      "description": "Proyecto Conjunto entre la UPM y la UTPL desarrollado como Parte del Programa de la UPM de Relaciones con Latinoamérica.",
+      "progress": 100.00,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/01/2011",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 10000.00,
+      "status": "finalizado",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 10000.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 95,
+          "tipo": "carta_compromiso",
+          "fecha": "03/06/2013",
+          "descipcion": "Carta de compromiso UTPL-UPM"
+        },
+        {
+          "id": 96,
+          "tipo": "otro",
+          "fecha": "03/06/2013",
+          "descipcion": "Resolución Rectoral de la UPM"
+        },
+        {
+          "id": 97,
+          "tipo": "otro",
+          "fecha": "03/06/2013",
+          "descipcion": "Carta de apoyo institucional"
+        },
+        {
+          "id": 299,
+          "tipo": "participantes",
+          "fecha": "11/06/2013",
+          "descipcion": "Carta de participación"
+        },
+        {
+          "id": 301,
+          "tipo": "resultado_cientifico",
+          "fecha": "11/06/2013",
+          "descipcion": "Artículo de proyecto"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1053,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 1054,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 1055,
+          "author": "SAMANTA PATRICIA CUEVA CARRIÓN",
+          "id_docente": 248,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 1056,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        },
+        {
+          "id": 1057,
+          "author": "GERMANIA DEL ROCIO RODRIGUEZ MORALES",
+          "id_docente": 254,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2011",
+          "finalize_date": "31/12/2011",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 104,
+      "year": 2010,
+      "finalize_date": "30/06/2013",
+      "project_name": "Technology-Enhanced Learning",
+      "department": "",
+      "description": "Financiado por la Red de Excelencia de Madrid (Emadrid), este Proyecto intenta promover la Investigación y Desarrollo de Tecnologias para el Aprendizaje.",
+      "progress": 97.56,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/01/2010",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 862500.00,
+      "status": "ejecutandose",
+      "project_code": "S2009/TIC-1650",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 862500.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 285,
+          "tipo": "otro",
+          "fecha": "10/06/2013",
+          "descipcion": "Resolución del Boletín Oficial"
+        },
+        {
+          "id": 286,
+          "tipo": "otro",
+          "fecha": "10/06/2013",
+          "descipcion": "Proyecto Presentado"
+        },
+        {
+          "id": 291,
+          "tipo": "participantes",
+          "fecha": "10/06/2013",
+          "descipcion": "Carta de participación"
+        },
+        {
+          "id": 293,
+          "tipo": "resultado_cientifico",
+          "fecha": "10/06/2013",
+          "descipcion": "Artículo SCOPUS"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1032,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2010",
+          "finalize_date": "30/06/2013",
+          "is_external": false
+        },
+        {
+          "id": 1033,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2010",
+          "finalize_date": "30/06/2013",
+          "is_external": false
+        },
+        {
+          "id": 1034,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2010",
+          "finalize_date": "30/06/2013",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 51,
+      "year": 2009,
+      "finalize_date": "31/12/2009",
+      "project_name": "Estrategias para el desarrollo e Investigación en Recursos Educativos Abiertos",
+      "department": "",
+      "description": "Proyecto Conjunto entre la UPM y la UTPL, concebido con el Objetivo de Contribuir con el Movimiento Open Access que Promueve Iniciativas OERs. ",
+      "progress": 100.00,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/01/2009",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 10000.00,
+      "status": "finalizado",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 10000.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 91,
+          "tipo": "otro",
+          "fecha": "03/06/2013",
+          "descipcion": "Resolución Rectoral de la UPM"
+        },
+        {
+          "id": 92,
+          "tipo": "otro",
+          "fecha": "03/06/2013",
+          "descipcion": "planteamiento del proyecto"
+        },
+        {
+          "id": 281,
+          "tipo": "participantes",
+          "fecha": "10/06/2013",
+          "descipcion": "Certificados de Participación"
+        },
+        {
+          "id": 282,
+          "tipo": "resultado_cientifico",
+          "fecha": "10/06/2013",
+          "descipcion": "Artículo de proyecto"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1007,
+          "author": "AUDREY ELIZABETH ROMERO PELAEZ",
+          "id_docente": 16,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1008,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Dirección",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1009,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1010,
+          "author": "SAMANTA PATRICIA CUEVA CARRIÓN",
+          "id_docente": 248,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1011,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1012,
+          "author": "GERMANIA DEL ROCIO RODRIGUEZ MORALES",
+          "id_docente": 254,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1013,
+          "author": "DIANA ALEXANDRA TORRES GUARNIZO",
+          "id_docente": 378,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        },
+        {
+          "id": 1014,
+          "author": "MARIA DEL CARMEN CABRERA LOAYZA",
+          "id_docente": 437,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2009",
+          "finalize_date": "31/12/2009",
+          "is_external": false
+        }
+      ],
+      "rol": "Dirección"
+    },
+    {
+      "id": 36,
+      "year": 2008,
+      "finalize_date": "31/05/2009",
+      "project_name": "Objetos Educativos Reutilizables (Para el EEES en las Especialidades de las Tecnologías de la InformacióN y las Comunicaciones)",
+      "department": "",
+      "description": "En este Proyecto Participaron 21 Universidades de Iberoamérica y diferentes Grupos de Investigación, con los objetivos de:",
+      "progress": 100.00,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/06/2008",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 18000.00,
+      "status": "finalizado",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 18000.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 88,
+          "tipo": "participacion_extranjera",
+          "fecha": "03/06/2013",
+          "descipcion": "Certificados de Participación Internacional"
+        },
+        {
+          "id": 89,
+          "tipo": "resultado_cientifico",
+          "fecha": "03/06/2013",
+          "descipcion": "Publicación Proyecto"
+        },
+        {
+          "id": 90,
+          "tipo": "participacion_extranjera",
+          "fecha": "03/06/2013",
+          "descipcion": "Listado de Participantes internacionales"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1001,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2008",
+          "finalize_date": "31/05/2009",
+          "is_external": false
+        },
+        {
+          "id": 1002,
+          "author": "JORGE AFRANIO LOPEZ VARGAS",
+          "id_docente": 237,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2008",
+          "finalize_date": "31/05/2009",
+          "is_external": false
+        },
+        {
+          "id": 1003,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/06/2008",
+          "finalize_date": "31/05/2009",
+          "is_external": false
+        }
+      ],
+      "rol": "Participación"
+    },
+    {
+      "id": 1559,
+      "year": 2007,
+      "finalize_date": "31/12/2007",
+      "project_name": "Marco para el desarrollo de líneas de investigación con la UTPL",
+      "department": "",
+      "description": "La Universidad Politécnica de Madrid, UPM junto con la Universidad Técnica Particular de Loja UTPL vienen desarrollando acciones de colaboración. Desde el año 2006 la UTPL colabora de manera más específica con la Facultad de Informática de dicha universidad, con el Departamento de Lenguajes y Sistemas Informáticos e Ingeniería del Software, con el objetivo de formar al profesorado de la Escuela de Ciencias de la Computación de la UTPL en Tecnologías Avanzadas de Desarrollo de Software, Sistemas Inteligentes y Ambientes Distribuidos. \r\nLa UTPL a través de la Escuela de Ciencias de la Computación ha formado un equipo de investigación con fines de formación doctoral y de investigación en tecnologías avanzadas en temas relativos al ámbito de la ingeniería del software, ingeniería de requisitos, porfolio de proyectos, y su impacto en el desarrollo de proyectos de desarrollo de software, Plataformas Orientadas a Servicios, Tecnologías avanzadas de internet.\r\nA la dificultad propia del inicio de la etapa de um grupo de investigadores jóvenes pero de gran capacidad de la UTPL, se añade la dificultad de la separación geográfica entre ambas instituciones y la dificultad para programar viajes que rompen las agendas de los investigadores, a su vez también docentes, y de obtener recursos que permitan una movilidad suficiente para mantener la comunicación y colaboración propuesta. \r\nCon el fin de fortalecer el equipo de investigación de UPM – UTPL que se encuentra en países diferentes y con usos horarios distinto se ha determinado imprescindible la dotación y desarrollo de una infraestructura tecnológica. \r\nEsta infraestructura debería hacer posible cumplir con los criterios que, a juicio de los coordinadores de ambos equipos investigadores, garantizaran el éxito del trabajo de investigación conjunto.\r\n\r\n\r\nEn este proyecto, el primero de extensión e investigación que se desarrolló con UPM, se generó un portal Web para facilitar la realizacio?n de trabajos de investigacio?n de manera colaborativa a trave?s de la integracio?n de un conjunto de tecnologi?as web 2.0. La herramienta fue aplicada en el programa de estudios de doctorado",
+      "progress": 100.00,
+      "utpl_finance": 0.00,
+      "project_type": "Investigación",
+      "start_date": "01/01/2007",
+      "coverage_project": "Internacional",
+      "has_students": "si",
+      "has_external_finance": "si",
+      "rescheduled": "no",
+      "total_general": 8000.00,
+      "status": "finalizado",
+      "project_code": "",
+      "line_of_research": "",
+      "program": "",
+      "external_finance": 8000.00,
+      "participacion_extranjera": "no",
+      "evidencias": [
+        {
+          "id": 169,
+          "tipo": "carta_compromiso",
+          "fecha": "06/06/2013",
+          "descipcion": "Carta Aval Rector"
+        },
+        {
+          "id": 170,
+          "tipo": "otro",
+          "fecha": "06/06/2013",
+          "descipcion": "Resolución Rectoral de la UPM - Aprobación Proyecto"
+        },
+        {
+          "id": 171,
+          "tipo": "resultado_cientifico",
+          "fecha": "06/06/2013",
+          "descipcion": "Artículo, resultado de proyecto"
+        },
+        {
+          "id": 172,
+          "tipo": "otro",
+          "fecha": "06/06/2013",
+          "descipcion": "Solicitud de registro de proyecto original 2011"
+        },
+        {
+          "id": 300,
+          "tipo": "participantes",
+          "fecha": "11/06/2013",
+          "descipcion": "Carta de participación"
+        }
+      ],
+      "participantes": [
+        {
+          "id": 1426,
+          "author": "JANNETH ALEXANDRA CHICAIZA ESPINOSA",
+          "id_docente": 250,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2007",
+          "finalize_date": "31/12/2007",
+          "is_external": false
+        },
+        {
+          "id": 1482,
+          "author": "NELSON OSWALDO PIEDRA PULLAGUARI",
+          "id_docente": 125,
+          "assumed_rol": "Codirección",
+          "start_date": "01/01/2007",
+          "finalize_date": "31/12/2007",
+          "is_external": false
+        },
+        {
+          "id": 1483,
+          "author": "RAMIRO LEONARDO RAMIREZ CORONEL",
+          "id_docente": 366,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2007",
+          "finalize_date": "31/12/2007",
+          "is_external": false
+        },
+        {
+          "id": 1484,
+          "author": "Edmundo  Tovar Caro",
+          "id_docente": 34,
+          "assumed_rol": "Codirección",
+          "start_date": "01/01/2007",
+          "finalize_date": "31/12/2007",
+          "is_external": true
+        },
+        {
+          "id": 1485,
+          "author": "José  Carrillo Verdún",
+          "id_docente": 2388,
+          "assumed_rol": "Participación",
+          "start_date": "01/01/2007",
+          "finalize_date": "31/12/2007",
+          "is_external": true
+        }
+      ],
+      "rol": "Codirección"
+    }
+  ]
+}
