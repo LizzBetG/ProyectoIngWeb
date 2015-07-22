@@ -1,0 +1,127 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>Probando barras</title>
+	<script type="text/javascript" src="d3.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
+	</head>
+	<body>
+		<div class="Grafico"></div>
+		<script>
+		jQuery(document).ready(function($) {
+			console.log('ready');
+
+				jQuery.ajax({
+				  url: 'http://carbono.utpl.edu.ec:8080/RESTFUL_SICA/webresources/entidades.proyectos/listar?jsoncallback=?',
+				  // url:'http://carbono.utpl.edu.ec:8080/RESTFUL_SICA/webresources/entidades.proyectos/buscarPorCedula?cedula=1102809462&jsoncallback=?',
+				  type: 'POST',
+				  dataType: 'json',
+				  data: {},
+				  complete: function(xhr, textStatus) {
+				    //called when complete
+				    console.log("complete"+textStatus);
+				  },
+				  success: function(data, textStatus, xhr) {
+				    //called when successful
+				    // nombrecualquiera(data.proyectos);
+				    proyectoTipo(data.proyectos);
+				    contador(data.proyectos,tipoProyectoA,valor);
+				    graficar(data.proyectos,tipoProyectoA,valor);
+				  },
+				  error: function(xhr, textStatus, errorThrown) {
+				    console.log("error"+textStatus);		    
+				  }
+				});
+				
+		});
+
+		function nombrecualquiera(projects){			
+			console.log("hay" + projects.length+" filas");
+		//d3 code
+		$.each(projects, function(index, proyecto) {			 
+			 $('<p>'+proyecto.project_name+'</p><strong>participantes:</strong><br>').appendTo('body');			 
+			 $.each(proyecto.participantes, function(index, objParticipantes) {			 	 
+			 	$('<em>'+objParticipantes.author+'</em><br>').appendTo('body');
+				 });
+		});
+	}
+	</script>
+	<!-- nuevooooooooooooooooooooooooooooooooooooooooo -->
+	<script>
+	var tipoProyectoA=[];
+	var valor=[];
+	var registro=false;
+
+	function proyectoTipo(tp){
+		$.each(tp, function(i, tipoPro ){
+			var ingresar=true;
+			if(!registro){
+				tipoProyectoA.push(tipoPro.project_type);
+				valor.push(0);
+				registro=true;
+			}else {
+				for (project_type in tipoProyectoA) {
+					if (tipoProyectoA[project_type]==tipoPro.project_type){ingresar=false};					
+				};
+				if (ingresar) {
+					tipoProyectoA.push(tipoPro.project_type);
+					valor.push(0);
+				};
+			};
+		});
+	}
+	function contador(tp, tipoProyectoA, valor){
+		$.each(tp, function(i, tipoPro ){
+			for(proyectoTipo in tipoProyectoA){
+				if (tipoProyectoA[proyectoTipo]==tipoPro.project_type) {
+					valor[proyectoTipo]= valor[proyectoTipo] +1;
+				};
+
+			}56
+		});
+	}
+	function graficar(tp, tipoProyectoA, valor){
+		d3.select('.Grafico')
+			.append('h5')
+			.text('Tipos de proyecto');
+		var ancho=500, alto=(valor.length*35)+100;
+		var esAncho=d3.scale.linear().domain([0,Math.max.apply(null, valor)+20]).range([0,ancho]);
+		var esColor=d3.scale.linear().domain([0, 499]).range(['#EF0AEB', '#F91315']);
+		var canvas=d3.select('.Grafico').append('svg').attr('class','marco').attr('width',ancho).attr('height', alto).style('border','1px solid black').append('g').attr('trandorm','translate(20,20)');
+
+		console.log('el tamañao del array es : '+tipoProyectoA.length);
+
+		var GraBarras=canvas.selectAll('rect').data(tipoProyectoA).enter().append('rect').attr('width','0').transition(50000).delay(800).attr('width', function(i,j){
+			console.log('valor de d es ' +j);
+			return esAncho(valor[j]);
+		})
+		.attr('height',30)
+		.attr('fill',function(i,j){
+			return esColor(valor[j]);
+		})
+		.attr('y',function(j,i){
+			return i*35
+		});
+	var nombres= canvas.selectAll("text")
+					.data(tipoProyectoA)
+					.enter()
+						.append('text')
+							.attr('fill','black')
+							.attr('y',function(j,i){
+								return i*35+20;
+							})
+							.text(function(j,i){
+								return j + "("+valor[i]+")";	
+							});	
+								
+							
+
+
+
+	}
+
+	</script>
+	</body>
+	
+	</html>
