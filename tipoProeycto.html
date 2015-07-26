@@ -6,6 +6,12 @@
 	<script type="text/javascript" src="d3.min.js"></script>
 	<script src="https://code.jquery.com/jquery-1.11.3.js"></script>
 	</head>
+	<style type="text/css">
+	.Grafico{
+		width: 60px;
+		
+	}
+	</style>
 	<body>
 		<div class="Grafico"></div>
 		<script>
@@ -39,13 +45,13 @@
 		function nombrecualquiera(projects){			
 			console.log("hay" + projects.length+" filas");
 		//d3 code
-		$.each(projects, function(index, proyecto) {			 
-			 $('<p>'+proyecto.project_name+'</p><strong>participantes:</strong><br>').appendTo('body');			 
-			 $.each(proyecto.participantes, function(index, objParticipantes) {			 	 
-			 	$('<em>'+objParticipantes.author+'</em><br>').appendTo('body');
-				 });
-		});
-	}
+			$.each(projects, function(index, proyecto) {			 
+				 $('<p>'+proyecto.project_name+'</p><strong>participantes:</strong><br>').appendTo('body');			 
+				 $.each(proyecto.participantes, function(index, objParticipantes) {			 	 
+				 	$('<em>'+objParticipantes.author+'</em><br>').appendTo('body');
+					 });
+			});
+			}
 	</script>
 	<!-- nuevooooooooooooooooooooooooooooooooooooooooo -->
 	<script>
@@ -86,26 +92,28 @@
 	}
 	function graficar(tp, tipoProyectoA, valor){
 		d3.select('.Grafico')
-			.append('h5')
-			.text('Tipos de proyecto');
+			.append('h5');
+			// .text('Tipos de proyecto');
 		var ancho=500, alto=(valor.length*35)+100;
 		var esAncho=d3.scale.linear().domain([0,Math.max.apply(null, valor)+20]).range([0,ancho]);
 		var esColor=d3.scale.linear().domain([0, 499]).range(['#EF0AEB', '#F91315']);
 
 		var canvas=d3.select('.Grafico')
-					.append('svg')
-						.text("proeycto")
+					// .attr("transform", "rotate(-90)")
+					.text('Tipo de Proyectos')
+					.append('svg')						
 						.attr('class','marco')
 						.attr('width',ancho)
 						.style('border-left','3px solid black')
 						.attr('height', alto)						
-						.style('border-top','3px solid black')						
+						// .style('border-top','3px solid black')
 						.append('g')
-							.attr('transform','translate(0,20)')
+							.attr('transform','translate(0,20)')							
 						;
 		console.log('el tamañao del array es : '+tipoProyectoA.length);
 
 		var GraBarras=canvas.selectAll('rect')
+					  .text('numero')
 					  .data(tipoProyectoA)
 					  .enter()
 					  	.append('rect')
@@ -138,7 +146,8 @@
 								return j + "("+valor[i]+")";	
 							});	
 	}
-
+	// var spaceForLegend   = 150;
+	
 	</script>
 	</body>
 	
